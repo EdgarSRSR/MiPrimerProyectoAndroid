@@ -1,2 +1,2 @@
 # MiPrimerProyectoAndroid
-Mi primer proyecto de Android.
+Este proyecto es un experimento para aprender a desarrollar aplicaciones Android.
